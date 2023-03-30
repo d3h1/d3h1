@@ -1,5 +1,5 @@
 <head>
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="[./style.css](https://github.com/d3h1/d3h1/blob/main/styles.css)">
 </head>
 
 <body>
