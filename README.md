@@ -10,11 +10,8 @@
         <a href="https://www.linkedin.com/in/deni-cabaravdic/">Linkedin</a><br><br>
     </div>
     <!-- Current Projects -->
-    <div>
-        <b>🔭 Current Working Projects</b> 
-        <b>🔭 Finished Recognizable Projects</b>
-    </div>
     <div>    
+        <b>🔭 Current Working Projects</b> 
         <ul>
             <li>Machine learning in the Workplace</li>
             <li>Cloud <b>|</b> Software Architecture for WFH</li>
@@ -22,6 +19,7 @@
             <li>Full blown hardware systems integrating C#</li>
             <li>UI Development <b>|</b> Intuitive User Interfaces</li>
         </ul>
+        <b>🔭 Finished Recognizable Projects</b>
         <ul>
             <li>Web scraping and automation</li>
             <li>Facial Recognition <b>|</b> Image Recognition</li>
