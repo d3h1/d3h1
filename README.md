@@ -12,9 +12,6 @@
     <!-- Current Projects -->
     <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 16px;">
         <b style="text-align: left; margin-top: 30px;">🔭 Current Working Projects</b> 
-        <b style="text-align: right; margin-top: 30px;">🔭 Finished Recognizable Projects</b>
-    </div>
-    <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 16px;">    
         <ul style="margin: 0;padding: 0; list-style: none; text-align: center;">
             <li style="margin: 10px 0; text-align: left; padding-left: 20px;">Machine learning in the Workplace</li>
             <li style="margin: 10px 0; text-align: left; padding-left: 20px;">Cloud <b>|</b> Software Architecture for WFH</li>
@@ -22,6 +19,7 @@
             <li style="margin: 10px 0; text-align: left; padding-left: 20px;">Full blown hardware systems integrating C#</li>
             <li style="margin: 10px 0; text-align: left; padding-left: 20px;">UI Development <b>|</b> Intuitive User Interfaces</li>
         </ul>
+        <b style="text-align: right; margin-top: 30px;">🔭 Finished Recognizable Projects</b>
         <ul style="margin: 0;padding: 0; list-style: none; text-align: center;">
             <li style="margin: 10px 0; text-align: right; padding-left: 20px;">Web scraping and automation</li>
             <li style="margin: 10px 0; text-align: right; padding-left: 20px;">Facial Recognition <b>|</b> Image Recognition</li>
