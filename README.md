@@ -1,39 +1,39 @@
-<body style="color: white; font-family: 'Courier New', Courier, monospace;">
+<body>
     <!-- Heading -->
-    <h1 style="font-size: 25px; font-weight: bold; text-align: center;">Hello there! I'm Deni Cabaravdic</h1>
-    <h3 style="font-size: 18px; text-align: center;">Currently working as a Software | Systems Engineer</h3>
+    <h1>Hello there! I'm Deni Cabaravdic</h1>
+    <h3>Currently working as a Software | Systems Engineer</h3>
     <br>
     <!-- Email -->
-    <div style="text-align: center;">
+    <div>
         📫 You can reach me at
         <a href="mailto:denicabaravdic@gmail.com">denicabaravdic@gmail.com</a> and
         <a href="https://www.linkedin.com/in/deni-cabaravdic/">Linkedin</a><br><br>
     </div>
     <!-- Current Projects -->
-    <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 16px;">
-        <b style="text-align: left; margin-top: 30px;">🔭 Current Working Projects</b> 
-        <b style="text-align: right; margin-top: 30px;">🔭 Finished Recognizable Projects</b>
+    <div>
+        <b>🔭 Current Working Projects</b> 
+        <b>🔭 Finished Recognizable Projects</b>
     </div>
-    <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 16px;">    
-        <ul style="margin: 0;padding: 0; list-style: none; text-align: center;">
-            <li style="margin: 10px 0; text-align: left; padding-left: 20px;">Machine learning in the Workplace</li>
-            <li style="margin: 10px 0; text-align: left; padding-left: 20px;">Cloud <b>|</b> Software Architecture for WFH</li>
-            <li style="margin: 10px 0; text-align: left; padding-left: 20px;">An open world game using Unreal Engine 5</li>
-            <li style="margin: 10px 0; text-align: left; padding-left: 20px;">Full blown hardware systems integrating C#</li>
-            <li style="margin: 10px 0; text-align: left; padding-left: 20px;">UI Development <b>|</b> Intuitive User Interfaces</li>
+    <div>    
+        <ul>
+            <li>Machine learning in the Workplace</li>
+            <li>Cloud <b>|</b> Software Architecture for WFH</li>
+            <li>An open world game using Unreal Engine 5</li>
+            <li>Full blown hardware systems integrating C#</li>
+            <li>UI Development <b>|</b> Intuitive User Interfaces</li>
         </ul>
-        <ul style="margin: 0;padding: 0; list-style: none; text-align: center;">
-            <li style="margin: 10px 0; text-align: right; padding-left: 20px;">Web scraping and automation</li>
-            <li style="margin: 10px 0; text-align: right; padding-left: 20px;">Facial Recognition <b>|</b> Image Recognition</li>
-            <li style="margin: 10px 0; text-align: right; padding-left: 20px;">AI development with Unreal Engine NPCs</li>
-            <li style="margin: 10px 0; text-align: right; padding-left: 20px;">Website clones to develop frontend skills</li>
-            <li style="margin: 10px 0; text-align: right; padding-left: 20px;">Stock Prediction using Python and Tensorflow </li>
+        <ul>
+            <li>Web scraping and automation</li>
+            <li>Facial Recognition <b>|</b> Image Recognition</li>
+            <li>AI development with Unreal Engine NPCs</li>
+            <li>Website clones to develop frontend skills</li>
+            <li>Stock Prediction using Python and Tensorflow </li>
         </ul> 
     </div>
     <!-- Languages, Stacks, Tools, Frameworks -->
     <br>
-    <h3 style="margin-bottom: 16px; text-align: center;"><b>Languages: </b></h3>
-        <div style="margin:0 auto; display: grid; grid-template-columns: 1fr 1fr 1fr; justify-items: center; max-width: 600px;">
+    <h3><b>Languages: </b></h3>
+        <div>
             <a style="padding-bottom: 10px;" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
             </a>
@@ -59,8 +59,8 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
             </a>
         </div>
-    <h3 style="margin-bottom: 16px; text-align: center;" class="tools"><b>Tools | Stacks | Frameworks: </b></h3>
-    <div style="margin:0 auto; display: grid; grid-template-columns: 1fr 1fr 1fr; justify-items: center; max-width: 600px;">
+    <h3><b>Tools | Stacks | Frameworks: </b></h3>
+    <div>
         <a style="padding-bottom: 10px;"  href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40">
         </a>
