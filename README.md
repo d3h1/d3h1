@@ -16,7 +16,7 @@
             <li>Machine learning in the Workplace</li>
             <li>Cloud <b>|</b> Software Architecture for WFH</li>
             <li>An open world game using Unreal Engine 5</li>
-            <li>Full blown hardware systems integrating C# nad C++</li>
+            <li>Full blown hardware systems integrating C# and C++</li>
             <li>UI Development <b>|</b> Intuitive User Interfaces</li>
         </ul>
         <b>🔭 Finished Recognizable Projects</b>
