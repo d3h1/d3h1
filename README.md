@@ -6,7 +6,7 @@
     <!-- Email -->
     <div>
         📫 You can reach me at
-        <a href="mailto:dc.work@denicabaravdic.com">denicabaravdic@gmail.com</a> and
+        <a href="mailto:dc.work@denicabaravdic.com">dc.work@denicabaravdic.com</a> and
         <a href="https://www.linkedin.com/in/deni-cabaravdic/">Linkedin</a><br><br>
     </div>
     <!-- Current Projects -->
