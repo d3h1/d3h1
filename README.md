@@ -1,7 +1,7 @@
 <body>
     <!-- Heading -->
     <h1>Hello there! I'm Deni Cabaravdic</h1>
-    <h3>Currently working as a Software | Systems Engineer</h3>
+    <h3>Currently working at <a href="https://thewaltdisneycompany.com/"> <b>Walt Disney Studios</b></a> as a Software | Systems Engineer</h3>
     <br>
     <!-- Email -->
     <div>
@@ -102,6 +102,12 @@
     <br> <br>
     <img
       src="https://github-readme-stats.vercel.app/api?username=d3h1&show_icons=true&theme=merko"
+      width="500"
+    />
+    <br/>
+  <br/>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=d3h1&theme=merko"
       width="500"
     />
 </body>
