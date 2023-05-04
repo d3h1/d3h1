@@ -1,7 +1,7 @@
 <body>
     <!-- Heading -->
     <h1>Hello there! I'm Deni Cabaravdic</h1>
-    <h3>Currently working at <a href="https://thewaltdisneycompany.com/"> <b>Walt Disney Studios</b></a> as a Software | Systems Engineer</h3>
+    <h3>Currently working at <a href="https://thewaltdisneycompany.com/"> <b>Walt Disney Studios</b></a> as a Fullstack Software | Systems Engineer</h3>
     <br>
     <!-- Email -->
     <div>
