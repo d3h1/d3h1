@@ -101,13 +101,13 @@
     </div>
     <br> <br>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=d3h1&show_icons=true&theme=merko"
+      src="https://github-readme-stats.vercel.app/api?username=d3h1&show_icons=true&theme=dark"
       width="500"
     />
     <br/>
   <br/>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=d3h1&theme=merko"
+      src="https://github-readme-streak-stats.herokuapp.com?user=d3h1&theme=dark"
       width="500"
     />
 </body>
