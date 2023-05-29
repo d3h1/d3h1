@@ -56,9 +56,6 @@
             <a style="padding-bottom: 10px;"  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
             </a>
-            <a style="padding-bottom: 10px;"  href="https://angular.io/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="ajs" width="40" height="40">
-            </a>
         </div>
     <h3><b>Tools | Stacks | Frameworks: </b></h3>
     <div>
