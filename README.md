@@ -93,6 +93,9 @@
         <a style="margin: 10px;"  href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40">
         </a>
+        <a style="margin: 10px;"  href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tf" width="40" height="40">
+        </a>
     </div>
     <br> <br>
   <br/>
