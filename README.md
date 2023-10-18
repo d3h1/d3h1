@@ -99,8 +99,5 @@
     </div>
     <br> <br>
   <br/>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=d3h1&theme=dark"
-      width="550px"
-    />
+    
 </body>
